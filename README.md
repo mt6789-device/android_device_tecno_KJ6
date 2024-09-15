@@ -1,0 +1,1 @@
+# android_device_tecno_KJ6
